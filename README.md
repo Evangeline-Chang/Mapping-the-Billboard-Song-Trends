@@ -8,7 +8,7 @@ In this collaborative project, specific responsibilities were assigned to ensure
 - RQ2: Ying Yang, Yitong Ouyang
 - RQ3: Ruishi Yang
 - RQ4: Yitong Ouyang
-- RQ5: Yingtong Peng
+- RQ5: [Yingtong Peng](https://github.com/bulala99)
 
 ### [RQ1](RQ1_sentiment_analysis.ipynb): Sentiment Analysis - 1
 What is the sentiment of lyrics by genre? Is there a trend through the past 20 years?
