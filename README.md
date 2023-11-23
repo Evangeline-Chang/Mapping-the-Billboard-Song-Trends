@@ -2,7 +2,7 @@
 
 The files within this repository were utilized for an analysis of the HOT 100 songs from Billboard. Using Python for sentiment analysis, network analysis, and topic modeling on lyrics and genres, our goal was to deepen our understanding of the prevailing themes and emotions in music. In this project, we aimed to address five research questions to further our insights.
 
-The final result is available at the following link: [Mapping the Billboard Song Trends: Analyzing Lyrics and Genres across Time](<Mapping the Billboard Song Trends.pdf>)
+The final result is available at the following link: **[Mapping the Billboard Song Trends: Analyzing Lyrics and Genres across Time](<Mapping the Billboard Song Trends.pdf>)**
 
 In this collaborative project, specific responsibilities were assigned to ensure a comprehensive analysis shown as below:
 - Data Collection: Ruishi Yang
