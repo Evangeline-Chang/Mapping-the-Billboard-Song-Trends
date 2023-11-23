@@ -5,11 +5,11 @@ The files within this repository were utilized for an analysis of the HOT 100 so
 The final result is available at the following link: **[Mapping the Billboard Song Trends: Analyzing Lyrics and Genres across Time](<Mapping the Billboard Song Trends.pdf>)**
 
 In this collaborative project, specific responsibilities were assigned to ensure a comprehensive analysis shown as below:
-- Data Collection: Ruishi Yang
+- Data Collection: [Ruishi Yang](https://github.com/shishippp223)
 - RQ1: [Yi (Evangeline) Chang](https://github.com/Evangeline-Chang)
-- RQ2: Ying Yang, Yitong Ouyang
-- RQ3: Ruishi Yang
-- RQ4: Yitong Ouyang
+- RQ2: Ying Yang, [Yitong Ouyang](https://github.com/Yvette0512)
+- RQ3: [Ruishi Yang](https://github.com/shishippp223)
+- RQ4: [Yitong Ouyang](https://github.com/Yvette0512)
 - RQ5: [Yingtong Peng](https://github.com/bulala99)
 
 ### [RQ1](RQ1_sentiment_analysis.ipynb): Sentiment Analysis - 1
