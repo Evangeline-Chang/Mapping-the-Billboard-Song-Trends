@@ -1,4 +1,4 @@
-# Mapping-the-Billboard-Song-Trends
+# Mapping the Billboard Song Trends: Analyzing Lyrics and Genres across Time
 
 The files within this repository were utilized for an analysis of the HOT 100 songs from Billboard. Using Python for sentiment analysis, network analysis, and topic modeling on lyrics and genres, our goal was to deepen our understanding of the prevailing themes and emotions in music. In this project, we aimed to address five research questions to further our insights.
 
@@ -26,7 +26,7 @@ Did the technology, society, or the public affect the change of sentiment or gen
 What’s the similarity between the genres? How is it changing through the 20 years?
 
 ### Data Sources:
-- Wikipedia: Billboard Year-End Hot 100 Chart: Title, Artist, Year
+- [Wikipedia - Billboard Year-End Hot 100 Chart](https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2021): Title, Artist, Year
 - [Music Genre Finder](https://www.chosic.com/music-genre-finder/): Genre, Sub-Genre
 - [Musixmatch](https://www.musixmatch.com): Lyrics
 - [Last.fm API](https://www.last.fm/api): Song Lengths
