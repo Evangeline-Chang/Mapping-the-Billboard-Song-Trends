@@ -10,22 +10,22 @@ In this collaborative project, specific responsibilities were assigned to ensure
 - RQ4: Yitong Ouyang
 - RQ5: [Yingtong Peng](https://github.com/bulala99)
 
-### [RQ1](RQ1_sentiment_analysis.ipynb): Sentiment Analysis - 1
+#### [RQ1](RQ1_sentiment_analysis.ipynb): Sentiment Analysis - 1
 What is the sentiment of lyrics by genre? Is there a trend through the past 20 years?
 
-### RQ2: Sentiment Analysis - 2
+#### RQ2: Sentiment Analysis - 2
 How has the use of positive and negative words in lyrics evolved across different music genres during the selected two periods?
 
-### RQ3: Topic Modeling
+#### RQ3: Topic Modeling
 What topics do the lyrics mainly present?
 
-### RQ4: Event Correlation
+#### RQ4: Event Correlation
 Did the technology, society, or the public affect the change of sentiment or genres?
 
-### RQ5: Network Analysis
+#### RQ5: Network Analysis
 What’s the similarity between the genres? How is it changing through the 20 years?
 
-### Data Sources:
+#### Data Sources:
 - Wikipedia: Billboard Year-End Hot 100 Chart: Title, Artist, Year
 - [Music Genre Finder](https://www.chosic.com/music-genre-finder/): Genre, Sub-Genre
 - [Musixmatch](https://www.musixmatch.com): Lyrics
