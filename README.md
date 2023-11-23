@@ -11,7 +11,7 @@ In this collaborative project, specific responsibilities were assigned to ensure
 - RQ3: [Ruishi Yang](https://github.com/shishippp223)
 - RQ4: [Yitong Ouyang](https://github.com/Yvette0512)
 - RQ5: [Yingtong Peng](https://github.com/bulala99)
-
+<br>
 In this project, we aimed to address five research questions to further our insights as following:
 ### [RQ1](RQ1_sentiment_analysis.ipynb): Sentiment Analysis - 1
 What is the sentiment of lyrics by genre? Is there a trend through the past 20 years?
