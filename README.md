@@ -1,4 +1,4 @@
-# Mapping the Billboard Song Trends: Analyzing Lyrics and Genres across Time
+# Mapping the Billboard Song Trends: <br>Analyzing Lyrics and Genres across Time
 
 The files within this repository were utilized for an analysis of the HOT 100 songs from Billboard. Using Python for sentiment analysis, network analysis, and topic modeling on lyrics and genres, our goal was to deepen our understanding of the prevailing themes and emotions in music.
 
